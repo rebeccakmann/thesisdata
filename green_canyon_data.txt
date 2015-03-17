@@ -2,5 +2,5 @@ date,species,num
 2015-03-15, towhee,2
 2015-03-15, wren,1
 2015-03-15, robin, 9
-2015-03-15, robin, 9
+
 
